@@ -108,6 +108,15 @@ body::before {
     filter: drop-shadow(3px 3px 0 #ff6b81);
 }
 
+.hasin-photo {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid #ff6b81;
+    box-shadow: 0 8px 25px rgba(232, 74, 95, 0.4);
+}
+
 @keyframes wiggle {
     0%, 100% { transform: rotate(-8deg) scale(1); }
     50% { transform: rotate(8deg) scale(1.05); }
