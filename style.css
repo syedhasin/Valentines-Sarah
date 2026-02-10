@@ -204,6 +204,25 @@ body {
     margin-bottom: 20px;
 }
 
+/* Couple Photo */
+.our-photo {
+    margin: 20px 0;
+}
+
+.couple-photo {
+    width: 280px;
+    max-width: 100%;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(232, 74, 95, 0.3);
+    border: 5px solid #ff6b81;
+    animation: photo-glow 2s ease-in-out infinite alternate;
+}
+
+@keyframes photo-glow {
+    from { box-shadow: 0 10px 30px rgba(232, 74, 95, 0.3); }
+    to { box-shadow: 0 15px 40px rgba(232, 74, 95, 0.5), 0 0 20px rgba(255, 107, 129, 0.3); }
+}
+
 .celebration-bear {
     font-size: 100px;
     animation: dance 0.5s ease-in-out infinite alternate;
