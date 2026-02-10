@@ -4,7 +4,7 @@ A cute and interactive Valentine's Day website to ask that special someone to be
 
 ## ✨ Features
 
-- 🐻 Personalized Valentine's ask-out page
+- Squirrel Personalized Valentine's ask-out page
 - 🏃 **The "No" button runs away** — good luck trying to click it!
 - 📈 The "Yes" button **grows bigger** with every failed "No" attempt
 - 💖 Floating hearts background animation
