@@ -1,16 +1,16 @@
-# 💕 Will You Be My Valentine, Sarah? 💕
+# Will You Be My Valentine, Sarah? 
 
 A cute and interactive Valentine's Day website to ask that special someone to be your Valentine! Built with love (and a little bit of JavaScript trickery 😏).
 
 ## ✨ Features
 
 - Squirrel Personalized Valentine's ask-out page
-- 🏃 **The "No" button runs away** — good luck trying to click it!
-- 📈 The "Yes" button **grows bigger** with every failed "No" attempt
-- 💖 Floating hearts background animation
-- 🎉 Heart burst celebration when she says **YES!**
-- ✨ Sparkle trail cursor effect
-- 📱 Mobile-friendly design
+-  **The "No" button runs away** — good luck trying to click it!
+-  The "Yes" button **grows bigger** with every failed "No" attempt
+-  Floating hearts background animation
+-  Heart burst celebration when she says **YES!**
+-  Sparkle trail cursor effect
+-  Mobile-friendly design
 
 ## 🛠️ Tech Stack
 
@@ -39,9 +39,8 @@ The page features a personal photo, a heartfelt question, and two buttons — bu
 - The **"No"** button shrinks and gets increasingly desperate
 - Clicking **"Yes"** triggers a celebration with heart bursts and a sweet message
 
-## 🫶 Made With Love
 
-By **Hasin** for **Sarah** 💖
+By **Hasin** for **Sarah** 
 
 ---
 
